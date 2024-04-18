@@ -27,3 +27,9 @@ var b = new inetger(5); //montre que c un integer
 ```
 
 exo 1, 2, 3, 11, 12: a faire: verifier en compilant
+
+exo 11: 
+imprimer une table d'équivalence entre degré Celsius et degré Fahrenheit
+
+exo 12:
+Permuter de façon circulaire les valeurs de 3 variables
