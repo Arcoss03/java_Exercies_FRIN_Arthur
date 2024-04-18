@@ -26,6 +26,33 @@ var a = 5; //montre que c un int
 var b = new inetger(5); //montre que c un integer
 ```
 
+
+operateurs arithmetiques unaires:
+```java
+expr++ //postfix
+expr-- //postfix
+++expr //prefix
+--expr //prefix
++ //positif
+- //negatif
+```
+
+#### les chine de caracteres ne sont pas des types primitifs:
+verifier l'égalité:
+```java
+chaine1.equals(chaine2)
+```
+pareil pour les objets
+
+#### les operateurs logiques:
+```java
+&& //et
+|| //ou
+! //non
+```
+
+
+
 exo 1, 2, 3, 11, 12: a faire: verifier en compilant
 
 exo 11: 
