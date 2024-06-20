@@ -42,6 +42,10 @@ public class Generique3 {
         public String toString() {
             return first + " " + second + " " + third;
         }
+        //to hash
+        public int hashCode() {
+            return first.hashCode() + second.hashCode() + third.hashCode();
+        }
     }
 
     // main
