@@ -1,4 +1,4 @@
-package generiqueExo;
+package Day4.generiqueExo;
 public class Generique2 {
 
     public static class Paire <T1, T2 > {

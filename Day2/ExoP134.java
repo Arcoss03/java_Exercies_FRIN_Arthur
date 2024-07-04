@@ -1,3 +1,4 @@
+package Day2;
 public class ExoP134 {
 
     public static  class Personne {

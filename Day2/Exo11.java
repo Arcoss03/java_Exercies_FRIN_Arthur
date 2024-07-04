@@ -1,3 +1,4 @@
+package Day2;
 
 class Exo11 {
     static public class Temperature {
