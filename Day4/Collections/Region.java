@@ -1,4 +1,4 @@
-package Day4.Collections;
+package Collections;
 
 public class Region {
     private String nom;

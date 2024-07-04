@@ -1,4 +1,4 @@
-package Day4.Collections;
+package Collections;
 
 import java.util.HashMap;
 import java.util.Map;

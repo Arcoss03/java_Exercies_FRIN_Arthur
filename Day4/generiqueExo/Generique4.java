@@ -1,4 +1,4 @@
-package Day4.generiqueExo;
+package generiqueExo;
 
 public class Generique4 {
     public static class Triplet <T1, T2, T3> {

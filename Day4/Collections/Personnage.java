@@ -1,4 +1,4 @@
-package Day4.Collections;
+package Collections;
 
 public class Personnage {
     private String nom;
